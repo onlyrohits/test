@@ -1,0 +1,5 @@
+{'lastresponsetime': 0, 'ipaddress': '218.204.131.250', 'successcount': 0, 'errorcount': 0, 'blacklist': 0, 'averageresponsetime': 1.1, 'usedcount': 0, 'type': 'http', 'port': '3128', 'slowresponsecount': 0}
+{'lastresponsetime': 0, 'ipaddress': '86.51.26.18', 'successcount': 0, 'errorcount': 0, 'blacklist': 0, 'averageresponsetime': 1.2, 'usedcount': 0, 'type': 'http', 'port': '443', 'slowresponsecount': 0}
+{'lastresponsetime': 0, 'ipaddress': '190.102.113.116', 'successcount': 0, 'errorcount': 0, 'blacklist': 0, 'averageresponsetime': 1.2, 'usedcount': 0, 'type': 'http', 'port': '7808', 'slowresponsecount': 0}
+{'lastresponsetime': 0, 'ipaddress': '221.7.11.68', 'successcount': 0, 'errorcount': 0, 'blacklist': 0, 'averageresponsetime': 1.3, 'usedcount': 0, 'type': 'http', 'port': '83', 'slowresponsecount': 0}
+{'lastresponsetime': 0, 'ipaddress': '117.59.224.62', 'successcount': 0, 'errorcount': 0, 'blacklist': 0, 'averageresponsetime': 2.3, 'usedcount': 0, 'type': 'http', 'port': '80', 'slowresponsecount': 0}
